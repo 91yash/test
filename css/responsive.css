@@ -1,0 +1,1151 @@
+
+@media screen and (min-width : 992px) and (max-width : 1024px) {
+.navigation-bar .navbar-nav li a {
+	margin: 10px 0 10px 15px;
+}
+.services-header img {
+	width: 78px;
+}
+.services-header {
+	padding: 20px;
+}
+.services-header h3 {
+	margin: 0 0 0 15px;
+}
+.finance-content p {
+	margin: 110px 0 0;
+}
+.asso-team-member {
+	padding: 0;
+}
+.asso-mang-favt-list {
+	max-width: 66%;
+}
+.client-login-popup-inner .close {
+	right: 20px;
+}
+}
+
+@media screen and (min-width : 768px) and (max-width : 992px) {
+.asso-manag-popup.request-quot-popup .modal-body {
+    padding: 30px 30px 20px;
+}
+.realty-landing-page .tab-inner-btn li a {
+    font-size: 20px;
+}
+.realty-landing-page .rt-search-btn {
+    width: 24%;
+}
+.realty-landing-page .profile-tab {
+    width: 100%;
+	padding: 0 0 0 30px;
+}
+.realty-landing-page .rt-search-btn {
+    margin: 22px 0 0;
+    width: 100%;
+	padding: 0 0 0 30px;
+}
+.realty-landing-page .pro-mang-tab.sell {
+    padding: 0 0 0 30px;
+}
+.realty-landing-page .tab-inner-btn li a {
+    font-size: 20px;
+    height: auto;
+    line-height: normal;
+    padding: 10px 0;
+}
+.realty-landing-page .tab-inner-btn li {
+    max-width: 100%;
+	padding:0;
+}
+.realty-landing-page .buy-filter {
+    float: left;
+    margin: 0 0 20px;
+}
+.realty-landing-page .rt-content-part {
+    margin: 0;
+}
+.realty-landing-page .buy-filter:nth-child(4), .realty-landing-page .buy-filter:nth-child(5), .realty-landing-page .buy-filter:nth-child(6) {
+    margin: 0;
+}
+.landing-page .mng-service h2 {
+    padding: 0 27px;
+}
+.should_you{
+	margin:0;
+}
+.go-question .quot-btn {
+    margin: 55px 0;
+}
+.landing-page .comp-philospy-heading.rental h2 {
+    margin: 30px 0 0;
+}
+.phone-no-field:last-child {
+    width: 40%;
+}
+.phone-no-field {
+    width: 30%;
+}
+.contact-us-form {
+    padding: 0 20px 0 0;
+}
+.contact-us-text {
+    padding: 0 0 0 20px;
+}
+.contact-us-heading {
+    margin: 50px 0;
+}
+.top_checkbox [type="checkbox"]:not(:checked) + label::before, .top_checkbox [type="checkbox"]:checked + label::before{
+	height:40px;
+	width:40px;
+}
+.top_checkbox{
+	height:40px;}
+.desire-service .req-right-side .checkbox-text {
+    font-size: 16px;
+    padding: 8px 0 0 60px !important;
+}
+.top_checkbox [type="checkbox"]:not(:checked) + label::after, .top_checkbox [type="checkbox"]:checked + label::after {
+    font-size: 26px;
+    left: 10px;
+    top: 1px;
+}
+.request-quot-popup_login .req-left-side {
+    width: 30%;
+}
+.request-quot-popup_login.asso-manag-popup.request-quot-popup .modal-body {
+    padding: 30px 40px 20px;
+}
+.request-quot-popup_login .req-right-side h1 {
+    margin: 28px 0 0;
+}
+.request-quot-popup_login .req-right-side {
+    width: 70%;
+}
+asso-manag-popup.request-quot-popup .modal-body {
+    padding: 20px;
+}
+.req-left-side {
+    padding: 0;
+    width: 20%;
+}
+.req-left-side label {
+    font-size: 16px;
+    line-height: 40px;
+}
+.req-right-side .form-control {
+    font-size: 14px;
+    height: 40px;
+}
+.req-right-side h1 {
+    font-size: 22px;
+    margin: 15px 0 0;
+    padding: 0 0 10px;
+}
+.ass-adress .req-left-side label {
+    line-height: 20px;
+}
+.unit .req-right-side {
+    width: 60%;
+}
+.property_type .top_checkbox {
+    width: 100%;
+	margin:0 0 10px;
+}
+.our-vision p{
+	padding:0;
+}
+.our-vision h1 {
+    margin: 0;
+}
+.our-vision p {
+    font-size: 20px;
+    line-height: 32px;
+    margin: 15px 0 0;
+}
+.company-culture-heading h1 {
+    margin: 40px 0 10px;
+}
+.company-culture-box {
+    margin: 30px 0 20px;
+}
+.company-culture-heading p{
+	font-size:19px;
+}
+.company-culture-box p{
+	font-size:17px;
+}
+.about-team-work {
+    margin: 40px auto;
+    padding: 40px 0;
+}
+.logo {
+	width: 9%;
+	margin: 20px 0;
+}
+.navigation-bar nav.navbar {
+	width: 91%;
+	padding: 0 0 0 10px;
+}
+.navigation-bar .navbar-nav li a {
+	font-size: 12px;
+	margin: 4px 0 4px 8px;
+}
+.cont-info {
+	display: inline-block;
+	float: none;
+	width: auto;
+}
+.client-login {
+	display: inline-block;
+	float: none;
+}
+.top-header {
+	text-align: center;
+}
+.client-login-btn input {
+	font-size: 14px;
+	height: 40px;
+	margin: 6px 0 0 20px;
+	width: 140px;
+}
+.asso-manag-heading {
+	margin: 12px 0;
+}
+.asso-manag-heading h1 {
+	margin: 15px 0;
+}
+.asso-manag-heading.text-center p {
+	font-size: 20px;
+}
+.asso-manag-content p {
+	font-size: 18px;
+}
+.asso-heading {
+	margin: 10px 0 12px;
+}
+.plan-header h3 {
+	font-size: 20px;
+	margin: 2px 0 12px;
+}
+.plan-header.text-center p {
+	font-size: 18px;
+}
+.services-header {
+	padding: 20px 5px;
+}
+.services-header img {
+	width: 55px;
+}
+.services-header h3 {
+	font-size: 16px;
+	margin: 0 0 0 10px;
+}
+.finance-content p {
+	margin: 85px 0 0;
+}
+.our-team-outer {
+	margin: 45px auto;
+}
+.why-triview {
+	padding: 40px 0;
+}
+.footer-section p {
+	font-size: 16px;
+	line-height: 28px;
+}
+.footer-section h3 {
+	font-size: 18px;
+	margin: 22px 0 15px;
+}
+.footer-section ul li a {
+	font-size: 16px;
+	line-height: 28px;
+}
+.footer-section.latest-post h3 {
+	max-width: 150px;
+}
+.footer-section.triview {
+	padding: 0;
+}
+.footer-section.contact h3 {
+	max-width: 200px;
+}
+.partner-logo {
+	margin: 20px 0 30px;
+}
+.why-triview img {
+	width: 100px;
+}
+.footer-copyright {
+	font-size: 18px;
+}
+.footer-section .footer-social-icon li a {
+	font-size: 32px;
+	margin: 30px 30px 0 0;
+}
+.asso-manag-content {
+	width: 65%;
+}
+.req-quot {
+	width: 35%;
+}
+.req-quot a {
+	font-size: 24px;
+}
+.cooling-green-img {
+	margin: 10px 0;
+}
+.about-our-team-page .value-ori-heading {
+	margin: 10px 0 35px;
+}
+.value-ori-heading {
+	margin: 10px 0 0;
+}
+.value-ori-heading h1 {
+	margin: 22px 0 15px;
+}
+.value-ori-heading p {
+	font-size: 20px;
+}
+.mng-service {
+	margin: 50px 0;
+	padding: 0;
+}
+.mng-service img {
+	width: 100px;
+}
+.mng-service h2 {
+	font-size: 18px;
+	margin: 30px 0 20px;
+}
+.mng-service p {
+	font-size: 16px;
+	line-height: 28px;
+}
+.comp-philospy-heading h1 {
+	margin: 10px 0 30px;
+}
+.comp-philospy-img {
+	height: 180px;
+	margin: 0 0 30px;
+}
+.comp-philospy-text h2 {
+	margin: 0 0 15px;
+}
+.more-triview-btn {
+	margin: 5px 0 10px;
+}
+.asso-team-member {
+	padding: 0;
+	min-height: 430px;
+}
+.triview-team-member h1 {
+	margin: 40px 0 20px;
+}
+.triview-member-outer.asso-member {
+	margin-top: 30px;
+}
+.com-phy-btn {
+	margin: 10px 0 40px;
+}
+.why-triview-box h1, .why-triview-box p {
+	font-size: 16px;
+}
+.why-triview-box {
+	min-height: 440px;
+}
+.why-triview-box-outer {
+	margin-top: 10px;
+}
+.mang-team-outer {
+	margin: 50px 0;
+}
+.latets-post-manag {
+	margin: 25px 0;
+	padding: 0;
+}
+.latets-post-manag h1 {
+	font-size: 18px;
+	line-height: 30px;
+	margin: 25px 0 15px;
+}
+.user-cat-pro, .user-contact {
+	font-size: 16px;
+	margin: 0 0 10px;
+}
+.user-cat-pro span::after, .user-contact span::after {
+	height: 12px;
+	top: 4px;
+	width: 1px;
+	right: 5px;
+}
+.asso-manag-desc {
+	font-size: 16px;
+	line-height: 28px;
+}
+.user-cat-pro span, .user-contact span {
+	padding: 0 15px 0 0;
+}
+.user-cat-pro, .user-contact {
+	font-size: 14px;
+}
+.asso-manag-popup-content {
+	margin: 0 -10px;
+}
+.asso-mang-favt {
+	width: 100%;
+}
+.asso-mang-favt-list {
+	width: 100%;
+}
+.client-login-popup .modal-body {
+	padding: 20px 0;
+}
+.client-login-links p {
+	font-size: 17px;
+}
+.client-login-links p {
+	margin: 0 0 10px;
+}
+.client-login-links {
+	margin: 10px 0 15px;
+}
+.client-login-popup-inner .close {
+	right: 25px;
+}
+}
+
+@media screen and (max-width : 767px) {
+.realty-landing-page .rt-search-btn{
+	width:100%;
+}
+.realty-landing-page .tab-inner-btn li {
+    max-width: 100%;
+	margin:0;
+}
+.realty-landing-page .pro-mang-tab ul, .realty-landing-page .tab-inner-btn{
+	margin:0;
+}
+.landing-page .mng-service h2{
+	padding:0;
+}
+.realty-landing-page .profile-tab {
+    float: left;
+    width: 100%;
+}
+.btn-blue.full-blue-btn{
+	font-size:14px;
+}
+.landing-page .landing-comp-philospy{
+	width:100%;
+	margin: 20px 0 0;
+}
+.landing-page .more-triview-btn {
+    margin: 30px 0 0;
+}
+.landing-page .go-question .quot-btn br {
+    display: none;
+}
+.landing-page .go-question .quot-btn {
+    font-size: 20px;
+    margin: 30px 0;
+    padding: 30px 15px;
+}
+.realty-out-team-quot .quot-btn {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 24px 20px;
+}
+.contact-us-heading h1 {
+    font-size: 28px;
+}
+.contact-us-heading {
+    margin: 20px 0 15px;
+}
+.contact-us-form label {
+    font-size: 18px;
+    margin: 0 0 5px;
+}
+.phone-no-field:last-child {
+    width: 40%;
+}
+.phone-no-field {
+    padding: 0 15px 0 0;
+    width: 30%;
+}
+.contact-us-form .form-group textarea.form-control {
+    height: 150px;
+}
+.contact-us-text, .contact-us-form {
+    padding: 0;
+}
+.contact-us-text h2 {
+    font-size: 20px;
+    margin: 30px 0 15px;
+}
+.contact-us-text p {
+    font-size: 18px;
+    line-height: 26px;
+    padding: 0 0 10px;
+}
+.social-icon li a {
+    font-size: 26px;
+    height: 50px;
+    line-height: 50px;
+    width: 50px;
+}
+.contact-map {
+    margin: 35px 0 0;
+}
+.contact-us-form .bootstrap-select.btn-group .dropdown-menu li a{
+	font-size:16px;
+	padding: 5px 10px;
+}
+.contact-us-form .bootstrap-select.btn-group .dropdown-toggle .filter-option {
+    font-size: 16px;
+}
+.contact-us-form .form-group .form-control, .contact-us-form .bootstrap-select.btn-group .dropdown-toggle {
+    font-size: 16px;
+    height: 35px;
+    line-height: 35px;
+}
+.contact-us-form .form-group {
+    float: left;
+    margin: 0 0 15px;
+    width: 100%;
+}
+.request-quot-popup_login .req-left-side {
+    text-align: left;
+}
+.request-quot-popup_login .req-right-side {
+    padding: 0;
+}
+.desire-service .ckeck-apply {
+    float: left;
+    font-size: 12px;
+    margin: -3px 0 10px;
+	width:100%;
+}
+.top_checkbox [type="checkbox"]:not(:checked) + label::before, .top_checkbox [type="checkbox"]:checked + label::before{
+	height:35px;
+	width:35px;
+}
+/*.desire-service .req-right-side .top_checkbox:nth-child(3) .checkbox-text, 
+.desire-service .req-right-side .top_checkbox:first-child .checkbox-text {
+    line-height: 16px !important;
+    padding-top: 0 !important;
+}*/
+.top_checkbox{
+	height:35px;
+	margin: 0 0 15px;
+}
+.req-left-side.triview-building-logo {
+    margin: 0;
+}
+.top_checkbox [type="checkbox"]:not(:checked) + label::after, .top_checkbox [type="checkbox"]:checked + label::after {
+    font-size: 22px;
+    left: 9px;
+    top: 1px;
+	line-height:normal;
+}
+.desire-service .req-right-side .checkbox-text {
+    font-size: 14px;
+    margin: 0;
+    padding: 8px 0 0 50px !important;
+}
+.asso-owner_bottom-text {
+    font-size: 20px;
+    margin: 20px 0 0;
+}
+.asso-manag-popup.request-quot-popup .modal-body {
+    padding: 15px;
+}
+.req-left-side {
+    padding: 0;
+    width: 100%;
+}
+.req-right-side {
+    padding: 0;
+    width: 100%;
+}
+.req-right-side h1 {
+    font-size: 20px;
+    margin: 20px 0 0;
+}
+.req-right-side .form-control {
+    font-size: 16px;
+    height: 35px;
+	line-height:35px;
+}
+.req-left-side label {
+    font-size: 16px;
+    line-height: 30px;
+    text-align: left;
+	float:left;
+}
+.req-field-outer.phone-no .req-right-side .form-control,
+.req-field-outer.unit .req-right-side .form-control{
+	width:100%;
+}
+.req-right-side .required {
+    float: left;
+    font-size: 16px;
+    margin: -12px 0 0;
+    width: 100%;
+}
+.req-field-outer.req-submit-btn {
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+.asso-owner-heading h1 {
+    font-size: 20px;
+    line-height: 28px;
+}
+.text-center.asso-owner-heading {
+    margin: 20px 0;
+}
+.req-field-outer {
+    float: left;
+    margin: 0 0 12px;
+    width: 100%;
+}
+.asso-owner-img {
+    padding: 15px 15px 0;
+    text-align: left;
+    width: 100%;
+}
+.asso-owner-login-outer {
+    padding: 0 15px;
+    text-align: left;
+    width: 100%;
+}
+.asso-owner-text {
+    padding: 10px;
+    width: 100%;
+}
+.our-vision h1 {
+    font-size: 22px;
+    margin: 10px 0 0;
+}
+.our-vision p {
+    font-size: 18px;
+    line-height: 30px;
+    margin: 10px 0 0;
+    padding: 0;
+}
+.company-culture-heading h1 {
+    font-size: 22px;
+    margin: 30px 0 10px;
+}
+.company-culture-heading p{
+	font-size:18px;
+}
+.company-culture-box {
+    margin: 30px 0 10px;
+}
+.company-culture-box p {
+    padding: 0;
+}
+.company-culture-box h1 {
+    margin: 20px 0 10px;
+}
+.about-team-work {
+    margin: 30px auto;
+    padding: 30px 0;
+}
+.about-team-work h1 {
+    font-size: 20px;
+    margin: 0 0 20px;
+}
+.about-team-work .com-phy-btn {
+    margin: 20px 0 0;
+}
+.about-our-team-page .triview-team-member h1 {
+	margin-bottom: 10px;
+}
+.triview-member-outer ul.nav-tabs {
+	padding: 0;
+}
+.triview-member-outer ul.nav-tabs li a {
+	font-size: 16px;
+}
+.triview-member-outer ul.nav-tabs li::after {
+	display: none;
+}
+.cont-info .contact-no {
+	display: inline-block;
+	float: none;
+	margin: 0 0 10px;
+	vertical-align: top;
+}
+.cont-info .email {
+	display: inline-block;
+	float: none;
+	margin: 0 15px 10px;
+	vertical-align: top;
+}
+.cont-info ul {
+	display: inline-block;
+	float: none;
+	margin: 0;
+}
+.cont-info {
+	text-align: center;
+}
+.client-login {
+	width: 100%;
+	text-align: center;
+}
+.client-login ul {
+	display: inline-block;
+	float: none;
+	margin: 0;
+}
+.client-login-btn input {
+	border-radius: 5px;
+	font-size: 14px;
+	height: 34px;
+	margin: 0;
+	width: 116px;
+}
+.client-login-btn {
+	float: none;
+	display: inline-block;
+}
+.nav-logo {
+	position: relative;
+}
+.logo {
+	left: 0;
+	margin: 9px 0 0;
+	position: absolute;
+	width: 60px;
+	z-index: 99;
+}
+.navigation-bar nav.navbar {
+	float: right;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.navigation-bar .navbar-toggle {
+	margin-right: 0px;
+}
+.navigation-bar .navbar-nav li {
+	float: left;
+	text-align: left;
+	width: 100%;
+}
+.navigation-bar .navbar-nav li a {
+	margin: 5px 0;
+}
+.navigation-bar .navbar-nav {
+	margin: 10px 0;
+}
+.navigation-bar .navbar-default .navbar-toggle {
+	background: #002f87;
+	border-color: #002f87;
+	border-width: 2px;
+}
+.navigation-bar .navbar-default .navbar-toggle:focus, .navigation-bar .navbar-default .navbar-toggle:hover {
+	background-color: rgba(0, 0, 0, 0);
+}
+.navigation-bar .navbar-default .navbar-toggle:focus .icon-bar, .navigation-bar .navbar-default .navbar-toggle:hover .icon-bar {
+	background: #002f87;
+}
+.navigation-bar .navbar-default .navbar-toggle .icon-bar {
+	background-color: #ffffff;
+}
+.asso-manag-heading h1 {
+	font-size: 22px;
+	margin: 5px 0;
+}
+.asso-manag-heading {
+	margin: 10px 0;
+}
+.asso-manag-heading.text-center p {
+	font-size: 16px;
+}
+.asso-manag-content {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.asso-manag-content p {
+	font-size: 16px;
+	line-height: 28px;
+}
+.req-quot {
+	width: 100%;
+	text-align: center;
+}
+.asso-heading h2 {
+	font-size: 18px;
+	line-height: normal;
+	margin: 0;
+}
+.asso-heading {
+	margin: 25px 0 12px;
+}
+.asso-content {
+	padding: 0;
+}
+.plan-header h3 {
+	font-size: 18px;
+	margin: 0 0 5px;
+}
+.plan-header.text-center p {
+	font-size: 16px;
+}
+.services-header {
+	padding: 15px 0;
+}
+.services-header img {
+	width: 60px;
+}
+.services-header h3 {
+	font-size: 15px;
+	margin: 0 0 0 6px;
+}
+.services-accordian .panel-default .panel-heading h4 a {
+	font-size: 18px;
+}
+.services-accordian .panel-default .panel-heading h4 a span::after {
+	border-left: 3px solid #000000;
+	border-top: 3px solid #000000;
+	height: 12px;
+	top: 7px;
+	width: 12px;
+}
+.services-accordian .panel-default .panel-heading h4 a.collapsed span::after {
+	top: 3px;
+}
+.finance-content p {
+	font-size: 17px;
+	line-height: 28px;
+	margin: 20px 0 0;
+	padding: 0;
+}
+.asso-content .req-quot {
+	margin: 20px 0 0;
+}
+.req-quot a {
+	font-size: 24px;
+	height: 120px;
+	line-height: 120px;
+	float: none;
+}
+.our-team-outer {
+	margin: 35px auto 20px auto;
+	padding: 0 0 35px;
+}
+.asso-content.left-side {
+	margin: 30px 0 0;
+}
+.why-triview {
+	padding: 30px 0 0;
+}
+.why-triview img {
+	width: 100px;
+}
+.why-triview p {
+	padding: 0 0 25px;
+}
+.cooling-green-heading.text-center h2 {
+	font-size: 20px;
+	line-height: normal;
+	margin: 0;
+}
+.cooling-green-heading.text-center p {
+	font-size: 18px;
+}
+.cooling-green-heading {
+	float: left;
+	margin: 0 0 20px;
+	width: 100%;
+}
+.cooling-green-text {
+	float: left;
+	margin: 10px 0;
+	width: 100%;
+}
+.cooling-green-text p {
+	font-size: 18px;
+	line-height: 26px;
+	padding: 0;
+}
+.cooling-green-img {
+	margin: 0 0 10px;
+}
+.services-accordian .service-content {
+	padding: 10px;
+}
+.footer-outer {
+	margin: 20px 0 0;
+}
+.footer-section.triview {
+	padding: 0;
+}
+.footer-section h3 {
+	font-size: 20px;
+	margin: 20px 0 5px;
+	text-align: left;
+}
+.footer-section p, .footer-section ul li a {
+	font-size: 16px;
+}
+.footer-section .footer-social-icon li a {
+	font-size: 24px;
+	margin: 15px 20px 0 0;
+}
+.footer-copyright {
+	font-size: 16px;
+	margin: 15px 0 0;
+}
+.partner-logo {
+	margin: 10px 0 20px;
+}
+.partner-logo ul li {
+	display: inline-block;
+	float: none;
+	margin: 10px 10px 0 0;
+}
+.partner-logo img {
+	width: 60px;
+}
+.footer-section.triview, .footer-section.latest-post {
+	padding: 0 0 10px;
+}
+.home-banner {
+	min-height: 420px;
+	padding: 40px 0;
+}
+.value-ori-heading h1 {
+	font-size: 26px;
+	margin: 12px 0;
+}
+.value-ori-heading {
+	margin: 20px 0 10px;
+}
+.value-ori-heading p {
+	font-size: 17px;
+}
+.mng-service img {
+	width: 100px;
+}
+.mng-service {
+	margin: 30px 0 15px;
+	padding: 0 10px;
+}
+.mng-service h2 {
+	margin: 20px 0 10px;
+}
+.mng-service .more {
+	margin: 24px 0 0;
+}
+.comp-philospy-heading h1 {
+	font-size: 26px;
+	margin: 20px 0 25px;
+}
+.comp-philospy-text h2 {
+	margin: 0 0 10px;
+}
+.comp-philospy-img {
+	margin: 0 0 25px;
+}
+.more-triview-btn {
+	margin: 0 0 15px;
+}
+.buy-filter.pro-type {
+	padding: 0 10px 0 0;
+	width: 42%;
+	margin: 0 0 20px;
+}
+.buy-filter.bath {
+	padding: 0;
+	width: 29%;
+}
+.buy-filter.beds {
+	padding: 0 0 0 10px;
+	width: 29%;
+}
+.bootstrap-select.btn-group .dropdown-toggle .filter-option {
+	font-size: 13px;
+}
+.btn-group .dropdown-toggle .caret {
+	border-width: 3px 0 0 3px;
+	height: 10px;
+	right: 8px;
+	top: 13px;
+	width: 10px;
+}
+.pro-mang-tab ul li, .tab-inner-btn li {
+	width: 100%;
+	padding: 0 !important;
+	margin: 10px 0 0;
+}
+.pro-mang-tab ul, .tab-inner-btn {
+	display: inline-block;
+	margin: 10px 0 0;
+	width: 100%;
+}
+.triview-logo-heading h1 {
+	font-size: 30px;
+	margin: 4px 0 15px;
+	text-align: center;
+}
+.triview-logo {
+	margin: 0 0 10px;
+}
+.com-phy-btn {
+	margin: 20px 0 45px;
+}
+.triview-team-member h1 span {
+	padding: 0;
+}
+.triview-team-member h1 {
+	font-size: 22px;
+	margin: 10px 0;
+}
+.asso-team-member {
+	margin: 15px 0 20px;
+	min-height: inherit;
+	padding: 0;
+}
+.asso-team-member h2 {
+	margin: 15px 0 10px;
+	font-weight: 400;
+}
+.asso-team-member span em {
+	min-height: inherit;
+}
+.asso-team-member span {
+	margin: 8px 0;
+}
+.triview-team-member h1::after {
+	display: none;
+}
+.why-triview-box {
+	margin: 0 0 20px;
+	min-height: inherit;
+}
+.why-triview-box h1 {
+	font-size: 18px;
+	line-height: 30px;
+	margin: 10px 0 15px;
+}
+.why-triview-box p {
+	font-size: 16px;
+	line-height: 26px;
+	margin: 12px 0 0;
+}
+.why-triview-box-outer {
+	margin-top: 20px;
+}
+.mang-team-outer {
+	margin: 30px 0 40px;
+}
+.latets-post-manag-heading h1 {
+	font-size: 22px;
+	line-height: 30px;
+}
+.latets-post-manag {
+	margin: 15px 0 25px;
+	padding: 0;
+}
+.latets-post-manag h1 {
+	font-size: 20px;
+	line-height: 30px;
+	margin: 15px 0 10px;
+}
+.asso-manag-popup .close {
+	right: 3px;
+	top: -3px;
+}
+.asso-manag-popup-content h2 {
+	font-size: 20px;
+	margin: 10px 0 15px;
+}
+.user-cat-pro span::after, .user-contact span::after {
+	display: none;
+}
+.user-contact {
+	font-size: 14px;
+	margin: 0 0 15px;
+}
+.user-cat-pro {
+	font-size: 14px;
+	margin: 0 0 10px;
+}
+.asso-manag-desc {
+	font-size: 16px;
+	line-height: 26px;
+}
+.asso-manag-popup-footer {
+	margin: 10px 0 0;
+	padding: 30px 20px 20px;
+}
+.user-cat-pro span, .user-contact span {
+	padding: 0 10px 0 0;
+}
+.client-login-popup-inner .close {
+	right: 0;
+	top: 10px;
+}
+.asso-mang-favt{
+	width:100%;
+}
+.asso-mang-favt-list{
+	width:100%;
+}
+.asso-mang-favt-list li {
+    font-size: 16px;
+    padding: 0 0 0 18px;
+    width: 49%;
+}
+.asso-mang-favt-list li::after{
+	top:8px;
+}
+.req-field-outer.unit {
+    width: 100%;
+}
+.unit .req-left-side {
+    width: 100%;
+}
+}
+
+@media screen and (min-width : 320px) and (max-width : 480px) {
+.pro-mang-tab p {
+	font-size: 18px;
+	line-height: 26px;
+}
+.triview-logo-heading h1 {
+	font-size: 20px;
+	margin: 5px 0 15px;
+}
+.triview-logo {
+	margin: 0 0 10px;
+}
+.buy-filter {
+	margin: 0 0 20px;
+	padding: 0 !important;
+	width: 100% !important;
+}
+.client-login li {
+	margin: 5px 10px 0;
+}
+.client-login-btn {
+	margin: 5px 0 0;
+}
+.latets-post-manag-heading h1 {
+	font-size: 18px;
+	margin: 0;
+}
+.latets-post-manag h1 {
+	font-size: 18px;
+}
+.asso-mang-favt-list li {
+	width: 100%;
+}
+}
